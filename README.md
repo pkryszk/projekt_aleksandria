@@ -1,5 +1,6 @@
 Projekt Aleksandria
 ===================
+podpowiedzi copilot
 
 Simple project to register users on courses
 
