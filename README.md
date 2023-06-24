@@ -1,6 +1,11 @@
 Projekt Aleksandria
 ===================
 podpowiedzi copilot
+python manage.py test
+coverage run manage.py test
+coverage report
+coverage html
+start htmlcov/index.html
 
 Simple project to register users on courses
 
