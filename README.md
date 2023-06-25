@@ -11,6 +11,7 @@ python manage.py shell
 
 Simple project to register users on courses
 
+
 ```mermaid
 classDiagram
     Course --|> User : author
